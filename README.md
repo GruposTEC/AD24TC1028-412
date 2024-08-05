@@ -1,4 +1,4 @@
-# Pensamiento Computacional para Ingenieria TC1028.411
+# Pensamiento Computacional para Ingenieria TC1028.412
 
 **Todos los códigos generados en la clase se podrán ver en está página en Github**
 
@@ -8,5 +8,5 @@ Una introducción a Git y GitHub puede encontrarse en el arículo :
 ## Acceso desde tu computadora
 
 En GitHub Desktop clona el siguiente repositorio:
-  - https://github.com/GruposTEC/AD21TC1028-411.git
+  - https://github.com/GruposTEC/AD24TC1028-412.git
 
